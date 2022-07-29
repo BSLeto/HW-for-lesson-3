@@ -2,6 +2,6 @@
 
 **Hello, world!**
 
-*The weather is bad*
+*The weather is good!*
 ## Test_2
 *I go to school!*
